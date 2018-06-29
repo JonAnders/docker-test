@@ -1,5 +1,5 @@
 ﻿body {
-    padding-top: 50px;
+    padding-top: 30px;
     padding-bottom: 20px;
 }
 
@@ -12,4 +12,8 @@
 
 .dock {
     text-align: center;
+}
+
+.youtube-video {
+    margin-top: 20px;
 }
